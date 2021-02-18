@@ -1,2 +1,3 @@
 # PythonBasicoD
-Marco Antonio Solis Gonzalez subire aquie todos mis trabajos del curso
+Marco Antonio Solis Gonzalez 
+subire aqui todos mis trabajos del curso
